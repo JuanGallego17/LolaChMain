@@ -1,0 +1,23 @@
+
+nav{
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    font-family: Georgia;
+    margin-right: 60px;
+    text-align: center;
+}
+container{
+    margin: 150px auto;
+    width: 50%;
+    padding: 8px;
+}
+
+ img{
+    float: left;
+    padding: 0 10px 0 0;
+
+}
