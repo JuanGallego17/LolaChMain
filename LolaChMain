@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=width-device, inicial-scale=1.0">
+    <meta name="description" content="Coffee Shop web site for Lola Coffeehouse">
+    <meta name="Keywords" content="coffeehouse, coffee shop, coffee, breakfast, lunch, acetring">
+    <meta name="author" content="Lola Coffeehouse">
+    <title>Lola Coffeehouse</title>
+    <link rel="stylesheet" href="style.css">                                       
+</head>
